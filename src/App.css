@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+.calendar{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.day{
+    width: calc(97vw/7);
+    height: calc(97vw/7);
+}
